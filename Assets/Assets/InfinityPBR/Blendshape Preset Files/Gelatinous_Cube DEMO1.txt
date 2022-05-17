@@ -1,0 +1,1 @@
+SFB_BlendShapesManager V2,Gelatinous_Cube,CircumferencePlus,-13,Gelatinous_Cube,CornersPlus,-24,Gelatinous_Cube,InflatedPlus,1.5
